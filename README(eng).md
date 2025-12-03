@@ -6,14 +6,6 @@ My Portfolio | ML, Data Science, Analytics &amp; Engineering projects with Jupyt
 
 A collection of data projects showcasing skills in exploratory analysis, machine learning, and data engineering. Each project includes detailed documentation, code, and business insights.
 
-##  Technical Skills
-**Programming:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn (Logistic Regression, Random Forest, SVM), Hyperparameter Tuning  
-**Data Engineering:** ClickHouse, ETL processes  
-**Visualization:** Google Slides, Presentation Design  
-**Tools:** Git, Jupyter Notebook, Google Colab  
-
 ## Projects
 
 ### **Diabetes Prediction with Logistic Regression**
